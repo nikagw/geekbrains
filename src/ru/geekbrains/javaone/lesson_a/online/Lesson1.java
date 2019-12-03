@@ -1,5 +1,5 @@
 /**
- * Никитенко Вадим 
+ * Никитенко Вадим
  */
 
 package ru.geekbrains.javaone.lesson_a.online;
@@ -19,7 +19,7 @@ public class Lesson1 {
      где a, b, c, d – целочисленные входные параметры этого метода;
      */
     public static float calc1(int a, int b, int c, int d) {
-        float e = a * (b + (c / d));
+        float e = a * (b + ((float) c / d));
         return e;
     }
 
