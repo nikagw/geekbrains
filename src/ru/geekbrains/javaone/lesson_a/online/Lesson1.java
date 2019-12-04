@@ -9,9 +9,9 @@ public class Lesson1 {
     public static void main(String[] args) {
         System.out.println(calc1(1, 2, 3, 4));
         System.out.println(calc2(10, 2));
-        calc3(-10);
+        System.out.println(calc3(-10));
         calc4("Иван");
-        calc5(1304);
+        calc5(400);
     }
     /**
      Написать метод вычисляющий выражение a * (b + (c / d))
@@ -30,8 +30,7 @@ public class Lesson1 {
      */
     public static boolean calc2(int a, int b) {
         int c = a + b;
-        if (c>=10 && c<=20) return true;
-        else return false;
+        return (c>=10 && c<=20);
     }
 
     /**
@@ -40,13 +39,15 @@ public class Lesson1 {
      или отрицательное. Замечание: ноль считаем положительным числом.
      Результат работы метода вывести в консоль
      */
-    public static void calc3(int a) {
+    public static String calc3(int a) {
+        String b;
         if (a >= 0) {
-            System.out.println("Число положительное");
+            b = "Число положительное";
         }
         else {
-            System.out.println("Число отрицательное");
+            b = "Число отрицательное";
         }
+        return b;
     }
 
     /**
@@ -54,8 +55,8 @@ public class Lesson1 {
      обозначающая имя, метод должен вернуть приветственное сообщение
      «Привет, переданное_имя!»; Вывести приветствие в консоль.
      */
-    public static void calc4(String name) {
-        System.out.println("Привет, " + name + "!");
+    public static String calc4(String name) {
+        return ("Привет, " + name + "!");
     }
 
     /**
@@ -65,9 +66,7 @@ public class Lesson1 {
      результаты работы метода в консоль
      * */
     public static void calc5(int year) {
-        if ( year % 400 == 0) {
-            System.out.println(year + " - это високосный год");
-        } else if ( year % 4 == 0 && year % 100 != 0) {
+        if ( year % 4 == 0 && year % 100 != 0 ^ year % 400 == 0) {
             System.out.println(year + " - это високосный год");
         } else {
             System.out.println(year + " - это не високосный год");
