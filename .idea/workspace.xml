@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="a4b7e54a-83a0-4969-9a09-40dde2993bb8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/MyHomework/ru/geekbrains/javaone/lesson_a/online/Lesson1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyHomework/ru/geekbrains/javaone/lesson_a/online/Lesson1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/geekbrains/javaone/lesson_a/online/Lesson1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/geekbrains/javaone/lesson_a/online/Lesson1.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="a4b7e54a-83a0-4969-9a09-40dde2993bb8" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,8 +39,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
+<<<<<<< Updated upstream
   <component name="RunManager">
     <configuration name="Lesson1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+=======
+  <component name="RunManager" selected="Application.Lesson2">
+    <configuration name="Lesson1" type="Application" factoryName="Application" nameIsGenerated="true">
+>>>>>>> Stashed changes
       <option name="MAIN_CLASS_NAME" value="ru.geekbrains.javaone.lesson_a.online.Lesson1" />
       <module name="MyHomework" />
       <extension name="coverage">
@@ -49,11 +58,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <recent_temporary>
       <list>
         <item itemvalue="Application.Lesson1" />
       </list>
     </recent_temporary>
+=======
+    <configuration name="Lesson2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.javaone.lesson_a.online.Lesson2" />
+      <module name="MyHomework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Lesson1" />
+      <item itemvalue="Application.Lesson2" />
+    </list>
+>>>>>>> Stashed changes
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -85,6 +108,7 @@
       <screen x="1920" y="-564" width="2194" height="1194" />
     </state>
     <state x="2610" y="-309" key="#Project_Structure/0.0.1920.1040/1920.-564.2194.1194@1920.-564.2194.1194" timestamp="1575358843136" />
+<<<<<<< Updated upstream
     <state x="2798" y="-213" key="FileChooserDialogImpl" timestamp="1575369291325">
       <screen x="1920" y="-564" width="2194" height="1194" />
     </state>
@@ -109,10 +133,71 @@
     </state>
     <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-564.2194.1194@0.0.1920.1040" timestamp="1575458883850" />
     <state width="2151" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-564.2194.1194@1920.-564.2194.1194" timestamp="1575369900828" />
+=======
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575614711806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-564.2194.1194@0.0.1920.1040" timestamp="1575614711806" />
+    <state x="580" y="113" key="CommitChangelistDialog2" timestamp="1575614271556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="580" y="113" key="CommitChangelistDialog2/0.0.1920.1040/1920.-564.2194.1194@0.0.1920.1040" timestamp="1575614271556" />
+    <state x="2798" y="-213" key="FileChooserDialogImpl" timestamp="1575641721079">
+      <screen x="1920" y="-564" width="2194" height="1194" />
+    </state>
+    <state x="2798" y="-213" key="FileChooserDialogImpl/0.0.1920.1040/1920.-564.2194.1194@1920.-564.2194.1194" timestamp="1575641721079" />
+    <state width="2151" height="409" key="GridCell.Tab.0.bottom" timestamp="1575641798784">
+      <screen x="1920" y="-564" width="2194" height="1194" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-564.2194.1194@0.0.1920.1040" timestamp="1575623146207" />
+    <state width="2151" height="409" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-564.2194.1194@1920.-564.2194.1194" timestamp="1575641798784" />
+    <state width="2151" height="409" key="GridCell.Tab.0.center" timestamp="1575641798784">
+      <screen x="1920" y="-564" width="2194" height="1194" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-564.2194.1194@0.0.1920.1040" timestamp="1575623146207" />
+    <state width="2151" height="409" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-564.2194.1194@1920.-564.2194.1194" timestamp="1575641798784" />
+    <state width="2151" height="409" key="GridCell.Tab.0.left" timestamp="1575641798783">
+      <screen x="1920" y="-564" width="2194" height="1194" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-564.2194.1194@0.0.1920.1040" timestamp="1575623146207" />
+    <state width="2151" height="409" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-564.2194.1194@1920.-564.2194.1194" timestamp="1575641798783" />
+    <state width="2151" height="409" key="GridCell.Tab.0.right" timestamp="1575641798784">
+      <screen x="1920" y="-564" width="2194" height="1194" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-564.2194.1194@0.0.1920.1040" timestamp="1575623146207" />
+    <state width="2151" height="409" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-564.2194.1194@1920.-564.2194.1194" timestamp="1575641798784" />
+    <state width="2151" height="409" key="GridCell.Tab.1.bottom" timestamp="1575641798784">
+      <screen x="1920" y="-564" width="2194" height="1194" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-564.2194.1194@0.0.1920.1040" timestamp="1575617841547" />
+    <state width="2151" height="409" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-564.2194.1194@1920.-564.2194.1194" timestamp="1575641798784" />
+    <state width="2151" height="409" key="GridCell.Tab.1.center" timestamp="1575641798784">
+      <screen x="1920" y="-564" width="2194" height="1194" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-564.2194.1194@0.0.1920.1040" timestamp="1575617841547" />
+    <state width="2151" height="409" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-564.2194.1194@1920.-564.2194.1194" timestamp="1575641798784" />
+    <state width="2151" height="409" key="GridCell.Tab.1.left" timestamp="1575641798784">
+      <screen x="1920" y="-564" width="2194" height="1194" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-564.2194.1194@0.0.1920.1040" timestamp="1575617841547" />
+    <state width="2151" height="409" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-564.2194.1194@1920.-564.2194.1194" timestamp="1575641798784" />
+    <state width="2151" height="409" key="GridCell.Tab.1.right" timestamp="1575641798784">
+      <screen x="1920" y="-564" width="2194" height="1194" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-564.2194.1194@0.0.1920.1040" timestamp="1575617841547" />
+    <state width="2151" height="409" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-564.2194.1194@1920.-564.2194.1194" timestamp="1575641798784" />
+>>>>>>> Stashed changes
     <state x="661" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1575358803013">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="661" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-564.2194.1194@0.0.1920.1040" timestamp="1575358803013" />
+<<<<<<< Updated upstream
+=======
+    <state x="2674" y="-2" key="run.anything.popup" timestamp="1575641268448">
+      <screen x="1920" y="-564" width="2194" height="1194" />
+    </state>
+    <state x="2674" y="-2" key="run.anything.popup/0.0.1920.1040/1920.-564.2194.1194@1920.-564.2194.1194" timestamp="1575641268448" />
+>>>>>>> Stashed changes
     <state x="2680" y="-300" width="672" height="678" key="search.everywhere.popup" timestamp="1575360318346">
       <screen x="1920" y="-564" width="2194" height="1194" />
     </state>
