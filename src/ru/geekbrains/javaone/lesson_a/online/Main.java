@@ -40,4 +40,4 @@ public class Main{
     private static float getRandomFloatInRange(float min) {
         return  (float) (Math.random() + min);
     }
-} 
+}
